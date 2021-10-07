@@ -1,3 +1,7 @@
+# File Browser
+
+![File Browser](/file-browser.png)
+
 The following are core requirements:
 
 - The left-hand side will display a list of files and directories.
