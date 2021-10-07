@@ -1,9 +1,9 @@
 # File Browser
 
 Language and tools:
-- Kotlin
-- Java JDK 11
-- JavaFX
+- Kotlin 1.5
+- OpenJDK 11
+- JavaFX 11
 - IntelliJ
 
 Due to the university policy, the source code is available only for education and employment purpose. There is a demo video of this project:
