@@ -1,6 +1,7 @@
 # File Browser
 
-## Due to the university policy, the source code is available only for education and employment purpose. There is a demo video of this project:
+Due to the university policy, the source code is available only for education and employment purpose. There is a demo video of this project:
+
 [File Browser Demo Video](https://youtu.be/pz9d35xVyaQ)
 
 ![File Browser](/file-browser.png)
